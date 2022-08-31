@@ -1,0 +1,14 @@
+{
+  "name": "bolsolula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.15"
+  }
+}
